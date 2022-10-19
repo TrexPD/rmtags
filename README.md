@@ -15,10 +15,10 @@
 
 #### Entrada dos dados e chamando a função!
 ```
-html = "<p>O <b>sistema circulatório</b> é o conjunto de órgãos responsáveis pela distribuição
+html = """<p>O <b>sistema circulatório</b> é o conjunto de órgãos responsáveis pela distribuição
 de nutrientes para as <a href="/wiki/C%C3%A9lula" title="Célula">células</a> e coleta de
 suas excretas metabólicas para serem eliminadas por órgãos excretores. Os órgãos que fazem
-parte do sistema circulatório são:</p>"
+parte do sistema circulatório são:</p>"""
 
 print(removedor_tags_html(html))
 ```
