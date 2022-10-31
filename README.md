@@ -1,4 +1,4 @@
-# Removedor Tags HTML
+# rmtags: Removedor de tags HTML
 
 #### Script feito com python para remover as tags HTML, e pegar apenas o texto puro!
 
